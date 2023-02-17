@@ -8291,8 +8291,8 @@
   },
   {
     "type": "mutation",
-    "id": "NONVERBAL",
-    "name": { "str": "Nonverbal" },
+    "id": "MUTE_PLAYER",
+    "name": { "str": "Mute" },
     "points": -3,
     "valid": false,
     "starting_trait": true,

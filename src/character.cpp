@@ -432,6 +432,7 @@ static const trait_id trait_MORE_PAIN( "MORE_PAIN" );
 static const trait_id trait_MORE_PAIN2( "MORE_PAIN2" );
 static const trait_id trait_MORE_PAIN3( "MORE_PAIN3" );
 static const trait_id trait_MUTE( "MUTE" );
+static const trait_id trait_MUTE_PLAYER( "MUTE_PLAYER" );
 static const trait_id trait_M_IMMUNE( "M_IMMUNE" );
 static const trait_id trait_M_SKIN3( "M_SKIN3" );
 static const trait_id trait_NIGHTVISION( "NIGHTVISION" );

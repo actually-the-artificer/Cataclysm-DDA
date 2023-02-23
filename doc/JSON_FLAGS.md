@@ -437,6 +437,9 @@ Some armor flags, such as `WATCH` and `ALARMCLOCK` are compatible with other ite
 - ```SUPER_HEARING``` You can hear much better than a normal person.
 - ```IMMUNE_HEARING_DAMAGE``` Immune to hearing damage from loud sounds.
 - ```CANNIBAL``` Butcher humans, eat foods with the `CANNIBALISM` and `STRICT_HUMANITARIANISM` flags without a morale penalty
+- ```PSYCHOPATH``` Butcher humans, eat foods with the `CANNIBALISM` and `STRICT_HUMANITARIANISM` flags without a morale penalty
+- ```SAPIOVORE``` Post-threshold version of the ```CANNIBAL```/```PSYCHOPATH``` flags. Allows the player to butcher humans and eat foods with the `CANNIBALISM` and `STRICT_HUMANITARIANISM` flags without a morale penalty
+- ```NUMB``` Medical mutation version of the ```CANNIBAL```/```PSYCHOPATH``` flags. Allows the player to butcher humans and eat foods with the `CANNIBALISM` and `STRICT_HUMANITARIANISM` flags without a morale penalty. Will also descrease morale bonuses and maluses somewhat.
 - ```CLIMB_NO_LADDER``` Capable of climbing up single-level walls without support.
 - ```DEAF``` Makes you deaf.
 - ```BLIND``` Makes you blind.
